@@ -1,12 +1,22 @@
 [
   {
     "name": "WebGIS",
-    "desc": "Standard web-based GIS application that can be developed into a more useful application in the future..",
+    "desc": "Standard web-based GIS application that can be developed into a more useful application in the future.",
     "image": "",
     "category": "Information System",
     "links": {
-      "view": "https://ldo.gis.co.id/",
-      "code": "https://github.com/dodyyulianto/webgis"
+      "view": "https://www.google.com/maps/d/u/0/edit?mid=1qBvRWrqsJqZLJT48LO3m-usHLVi4sCI&usp=sharing",
+      "code": ""
+    }
+  },
+  {
+    "name": "ATLAS",
+    "desc": "Integrate high-resolution imagery, field observations, and real-time data feeds to understand how to make the most of your limited resources. WebGIS technology allows you to collect, maintain, and analyse all your agriculture and plantation field data in one centralised system.",
+    "image": "",
+    "category": "Information System",
+    "links": {
+      "view": "https://www.arcgis.com/apps/instant/atlas/index.html?appid=a5abc2341af148a5839213255ea0a6c5",
+      "code": ""
     }
   },
   {
@@ -20,8 +30,7 @@
     }
   },
   {
-    "name": "QR-Code Plant Scanner
-",
+    "name": "QR-Code Plant Scanner",
     "desc": "Inventory of plantation commodities using a QR Code Scanner. It must use WebGIS and the Avenza Map application if used in blank spot areas.",
     "image": "",
     "category": "Information System",
